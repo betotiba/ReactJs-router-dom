@@ -13,6 +13,7 @@ Instalar o módulo para manipular rotas
 
 
 ### BREVE EXPLICAÇÃO
+
 Cria o diretório pages  dentro do SRC.
 Dentro de Pages crie os diretórios que representam cada página do site como por exemplo: .src/Contato/index.js. Neste arquivo index crie o componente com nome da página e exporte conforme o modelo abaixo:
 
